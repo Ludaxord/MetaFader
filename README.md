@@ -5,7 +5,7 @@ Simple library to remove and display MetaData of Image.
 
 ## Pre-requirements:
 
-* Python (I was using Python 3.6)
+* Python (Tested on Python 3.6)
 
 * CMD/Terminal
 
